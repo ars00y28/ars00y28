@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ars00y28
 - 👀 I’m interested in Python, JavaScript, Html and Css
-- 🌱 I’m currently learning ... Flask Framework
+- 🌱 I’m currently learning ... 
 
 
 <!---
